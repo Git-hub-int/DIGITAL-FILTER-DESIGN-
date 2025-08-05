@@ -1,3 +1,4 @@
+// testbench for FIR digital filter design 
 `timescale 1ns/1ps
 
 module fir_filter_tb;
