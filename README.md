@@ -1,5 +1,17 @@
 1️⃣ # DIGITAL-FILTER-DESIGN-
 
+COMPANY:- CODTECH IT SOLUTIONS 
+
+NAME:- GARIMA VERMA
+
+INTERN ID:- CT04DH2092
+
+DOMAIN:- VLSI
+
+DURATION:- 4 WEEKS 
+
+MENTOR:- NEELA SANTOSH 
+
 A digital filter processes a digital input signal to remove unwanted components (like noise) or extract useful parts (like specific frequency bands).
 
 Unlike analog filters that use resistors, capacitors, and inductors, digital filters use mathematical algorithms implemented in software or digital hardware (like VLSI circuits).
@@ -45,3 +57,5 @@ gtkwave fir_filter.vcd
 ✅ Expected Behavior:
 Each clock cycle computes the FIR equation using current and previous two inputs. You should see the output y_out increase and stabilize as the filter begins to accumulate real inputs.
 
+OUTPUT:-
+![Image](https://github.com/user-attachments/assets/289abe11-d2f1-4ccc-aeb6-aa67750eb643)
